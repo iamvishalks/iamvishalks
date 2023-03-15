@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamvishalks
-- 👀 I’m interested in C++ Programming.
+- 👀 I’m interested in Rust, Python, C++ Programming.
 - 🌱 I’m currently learning Computer Science and Engineering @ KiiT University
 
 - 📫 How to reach me : e-mail : v.vk650@gmail.com
